@@ -1,4 +1,4 @@
-# Sistema de Restaurante, Lanchonetes, Padarias
+# Sistema de Restaurante ou Lanchonetes
 Heroku: https://app-ui-restaurante.herokuapp.com/
 ## Tecnologias:
 ### Backend
