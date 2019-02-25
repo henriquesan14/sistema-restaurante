@@ -27,7 +27,7 @@ Heroku: https://app-ui-restaurante.herokuapp.com/
 
 #### O Administrador possui todas permissões do sistema.
 * Gráficos 
-* Gerenciar seu profile (alteração de senha, informações e adição de endereços)
+* Gerenciar seu profile (alteração de senha, informações de perfil e adição de endereços)
 * Demandas da Cozinha e do Garçom
 * Fechar conta (finalizar pedido com pagamento pendente)
 * Emitir e visualizar todos pedidos comuns
@@ -35,14 +35,14 @@ Heroku: https://app-ui-restaurante.herokuapp.com/
 * Gerenciar os produtos( visualizar,cadastrar, editar e excluir)
 * Gerenciar as categorias de produtos( visualizar,cadastrar, editar e excluir)
 * Gerenciar as mesas( visualizar,cadastrar, editar e excluir)
-* Gerenciar os usuários( visualizar,cadastrar, editar e excluir)
+* Gerenciar os usuários( visualizar,cadastrar)
 
 ### GARÇOM E COZINHEIRO
 #### Credenciais:
 >Email: gg@gmail.com
 >Senha: 123456
 #### Permissões: 
-* Gerenciar seu profile (alteração de senha, informações e adição de endereços)
+* Gerenciar seu profile (alteração de senha, informações de perfil e adição de endereços)
 * Demandas da Cozinha e do Garçom
 * Fechar conta (finalizar pedido com pagamento pendente)
 * Emitir e visualizar todos pedidos comuns
@@ -54,7 +54,7 @@ Heroku: https://app-ui-restaurante.herokuapp.com/
 >Email: xablau@gmail.com
 >Senha: 123456
 #### Permissões: 
-* Gerenciar seu profile (alteração de senha, informações e adição de endereços)
+* Gerenciar seu profile (alteração de senha, informações de perfil e adição de endereços)
 * Emitir e visualizar todos seus pedidos delivery
 
 ## Realizando pedidos
@@ -67,7 +67,7 @@ Heroku: https://app-ui-restaurante.herokuapp.com/
 5. Assim que desejar finalizar o pedido clique em 'Emitir Pedido'.
 6. Selecione a mesa do pedido.(ex: Mesa 001).
 7. Se desejar identifique o cliente pesquisando pelo o email.
-8. Se desejar incrementar, decrementar ou a quantidade de algum produto só clicar nos icones correspondentes(ao decrementar produto com quantidade igual a 1 produto é apagado do pedido).
+8. Se desejar incrementar ou decrementar a quantidade de algum produto só clicar nos icones correspondentes(ao decrementar produto com quantidade igual a 1 produto é apagado do pedido).
 
 >Pedido Delivery
 1. No menu lateral clique em 'Deliverys' > 'Novo'.
@@ -75,10 +75,9 @@ Heroku: https://app-ui-restaurante.herokuapp.com/
 3. Clique na categoria desejada(ex: Sanduiches).
 4. Clique em 'adicionar' no produto desejado, você pode também pesquisar pelo item desejado.(ex: X-burguer).
 5. Assim que desejar finalizar o pedido clique em 'Emitir Pedido'.
-6. Selecione a mesa do pedido.(ex: Mesa 001).
-7. Se desejar identifique o cliente pesquisando pelo o email.(caso não identifique o cliente, o pedido será registrado para o usuário logado).
+6. Se desejar identifique o cliente pesquisando pelo o email.(caso não identifique o cliente, o pedido será registrado para o usuário logado).
 8. Clique no endereço escolhido para entrega do pedido.
-9. Se desejar incrementar, decrementar ou a quantidade de algum produto só clicar nos icones correspondentes(ao decrementar produto com quantidade igual a 1 produto é apagado do pedido).
+9. Se desejar incrementar ou decrementar a quantidade de algum produto só clicar nos icones correspondentes(ao decrementar produto com quantidade igual a 1 produto é apagado do pedido).
 
 ## Operações após emissão do pedido
 
@@ -87,7 +86,7 @@ Heroku: https://app-ui-restaurante.herokuapp.com/
 3. O garçom irá se encarregar de entregar o item pedido na mesa referida e clicar no icone de 'Pronto'.
 4. Assim que o cliente desejar fechar a conta, o funcionário deve clicar na opção 'Fechar Conta' e selecionar o pedido desejado.
 5. Clique em adicionar pagamento e informe o valor recebido e forma de pagamento.
-6. Assim que o valor do total for pagado, pedido será retirado de pedidos pendentes.
+6. Assim que o valor do total for pago, pedido será retirado de pedidos pendentes.
 
 
 
