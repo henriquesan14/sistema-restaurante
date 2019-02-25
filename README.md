@@ -55,6 +55,7 @@ Heroku: https://app-ui-restaurante.herokuapp.com/
 * Emitir e visualizar todos seus pedidos delivery
 
 ## Realizando pedidos
+
 >Pedido Comum
 1. No menu lateral clique em 'Pedidos' > 'Novo'.
 2. Clique em um dos tipo de categorias(ex: Refeições).
@@ -65,7 +66,6 @@ Heroku: https://app-ui-restaurante.herokuapp.com/
 7. Se desejar identifique o cliente pesquisando pelo o email.
 8. Se desejar incrementar, decrementar ou a quantidade de algum produto só clicar nos icones correspondentes(ao decrementar produto com quantidade igual a 1 produto é apagado do pedido).
 
-## Realizando pedidos
 >Pedido Delivery
 1. No menu lateral clique em 'Pedidos' > 'Novo'.
 2. Clique em um dos tipo de categorias(ex: Refeições).
