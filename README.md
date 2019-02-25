@@ -21,7 +21,7 @@ Heroku: https://app-ui-restaurante.herokuapp.com/
 
 ## Perfis e permissões:
 ### ADMIN
-#### Credencias:
+#### Credenciais:
 >Email: henrique@gmail.com
 >Senha: 123456
 
@@ -38,7 +38,7 @@ Heroku: https://app-ui-restaurante.herokuapp.com/
 * Gerenciar os usuários( visualizar,cadastrar, editar e excluir)
 
 ### GARÇOM E COZINHEIRO
-#### Credencias:
+#### Credenciais:
 >Email: gg@gmail.com
 >Senha: 123456
 #### Permissões: 
@@ -50,7 +50,7 @@ Heroku: https://app-ui-restaurante.herokuapp.com/
 
 
 ### CLIENTE
-#### Credencias:
+#### Credenciais:
 >Email: xablau@gmail.com
 >Senha: 123456
 #### Permissões: 
