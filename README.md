@@ -61,7 +61,7 @@ Heroku: https://app-ui-restaurante.herokuapp.com/
 
 >Pedido Comum
 1. No menu lateral clique em 'Pedidos' > 'Novo'.
-2. Clique em um dos tipo de categorias(ex: Refeições).
+2. Clique em um dos tipos de categorias(ex: Refeições).
 3. Clique na categoria desejada(ex: Sanduiches).
 4. Clique em 'adicionar' no produto desejado, você pode também pesquisar pelo item desejado.(ex: X-burguer).
 5. Assim que desejar finalizar o pedido clique em 'Emitir Pedido'.
@@ -71,7 +71,7 @@ Heroku: https://app-ui-restaurante.herokuapp.com/
 
 >Pedido Delivery
 1. No menu lateral clique em 'Deliverys' > 'Novo'.
-2. Clique em um dos tipo de categorias(ex: Refeições).
+2. Clique em um dos tipos de categorias(ex: Refeições).
 3. Clique na categoria desejada(ex: Sanduiches).
 4. Clique em 'adicionar' no produto desejado, você pode também pesquisar pelo item desejado.(ex: X-burguer).
 5. Assim que desejar finalizar o pedido clique em 'Emitir Pedido'.
