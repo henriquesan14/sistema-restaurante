@@ -67,7 +67,7 @@ Heroku: https://app-ui-restaurante.herokuapp.com/
 8. Se desejar incrementar, decrementar ou a quantidade de algum produto só clicar nos icones correspondentes(ao decrementar produto com quantidade igual a 1 produto é apagado do pedido).
 
 >Pedido Delivery
-1. No menu lateral clique em 'Pedidos' > 'Novo'.
+1. No menu lateral clique em 'Deliverys' > 'Novo'.
 2. Clique em um dos tipo de categorias(ex: Refeições).
 3. Clique na categoria desejada(ex: Sanduiches).
 4. Clique em 'adicionar' no produto desejado, você pode também pesquisar pelo item desejado.(ex: X-burguer).
