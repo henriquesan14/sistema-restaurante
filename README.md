@@ -8,7 +8,7 @@ Heroku: https://app-ui-restaurante.herokuapp.com/
 ### Frontend
 * Angular 2+
 * Bootstrap 4
-* Fonte Awesome
+* Font Awesome
 * Angular JWT
 * ng text mask
 * ng charts
