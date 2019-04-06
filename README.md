@@ -16,7 +16,7 @@ Heroku: https://app-ui-restaurante.herokuapp.com/
 * SockJs
 * StompJs
 
->Obs: Como o projeto está implantado em um servidor de testes do Heroku, a conexão via websocket está sendo perdida.
+>Obs: Como o projeto está implantado em um servidor de testes do Heroku, a primeira requisição pode demorar um pouco, pois ele vai subir o servidor.
 
 
 ## Perfis e permissões:
